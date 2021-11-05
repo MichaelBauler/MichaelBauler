@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Bauler
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently building a python script to better manage inventory levels at my job 
+- 👀 I’m interested in Data Analytics and Machine Learning
+- 🌱 I’m ... currently building a python script to better manage inventory levels at my job 
 - 📫 How to reach me ...Michael.Bauler@hotmail.com
 
 <!---
